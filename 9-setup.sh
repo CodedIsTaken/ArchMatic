@@ -13,7 +13,7 @@ echo "FINAL SETUP AND CONFIGURATION"
 # ------------------------------------------------------------------------
 
 echo
-echo "Genaerating .xinitrc file"
+echo "Generating .xinitrc file"
 
 # Generate the .xinitrc file so we can launch XFCE from the
 # terminal using the "startx" command
